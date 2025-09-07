@@ -29,7 +29,7 @@ Foydalanuvchilar va admin o'rtasida aloqa o'rnatish uchun mo'ljallangan zamonavi
 
 ### 1. Repository ni clone qiling
 ```bash
-git clone https://github.com/sizning-username/telegram-support-bot.git
+git clone https://github.com/zukhridd1n/Chat_bot
 cd telegram-support-bot
 ```
 
@@ -194,8 +194,8 @@ MIT License - batafsil ma'lumot uchun LICENSE faylni ko'ring.
 
 Savollar bo'lsa:
 - Issue yarating
-- Email: your-email@example.com
-- Telegram: @your_username
+- Email: zuxriddinsharobiddinov2004@gmail.com
+- Telegram: @python_dev_20
 
 ## 🎉 Minnatdorchilik
 
