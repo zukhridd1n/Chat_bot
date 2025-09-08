@@ -1122,3 +1122,9 @@ aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query
 2025-09-08 15:13:58,777 - database - INFO - 📂 2 foydalanuvchi ma'lumoti yuklandi
 2025-09-08 15:13:58,777 - __main__ - INFO - 📊 Bazada 2 foydalanuvchi
 2025-09-08 15:14:04,868 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-09-08 15:47:45,633 - __main__ - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-08 15:47:46,015 - __main__ - INFO - ✅ Bot ishga tushdi: @Xoodimun_bot
+2025-09-08 15:47:46,015 - __main__ - INFO - 👤 Admin ID: 1932693641
+2025-09-08 15:47:46,206 - database - INFO - 📂 2 foydalanuvchi ma'lumoti yuklandi
+2025-09-08 15:47:46,206 - __main__ - INFO - 📊 Bazada 2 foydalanuvchi
+2025-09-08 15:47:51,934 - aiogram.dispatcher - WARNING - Received SIGINT signal
