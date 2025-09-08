@@ -1,0 +1,134 @@
+{
+  "5041112582": {
+    "user_info": {
+      "id": 5041112582,
+      "first_name": "Zayniddin_Sharofiddinov",
+      "last_name": null,
+      "username": "GrGeneral_2007",
+      "first_contact": "2025-08-25 14:38:36",
+      "is_blocked": false
+    },
+    "messages": [
+      {
+        "text": "salom",
+        "timestamp": "2025-08-25 14:38:36",
+        "type": "user",
+        "message_id": 10
+      },
+      {
+        "text": "<sizning xabaringiz>",
+        "timestamp": "2025-08-25 14:41:23",
+        "type": "admin",
+        "message_id": null
+      },
+      {
+        "text": "<salom>",
+        "timestamp": "2025-08-25 14:43:38",
+        "type": "admin",
+        "message_id": null
+      },
+      {
+        "text": "salom",
+        "timestamp": "2025-08-25 14:51:30",
+        "type": "user",
+        "message_id": 43
+      },
+      {
+        "text": "assalomu alaykum",
+        "timestamp": "2025-08-25 14:51:45",
+        "type": "admin",
+        "message_id": null
+      },
+      {
+        "text": "assalomu alaykum",
+        "timestamp": "2025-08-25 14:58:49",
+        "type": "user",
+        "message_id": 53
+      },
+      {
+        "text": "assalomu alaykum",
+        "timestamp": "2025-08-25 14:59:40",
+        "type": "admin",
+        "message_id": null
+      },
+      {
+        "text": "jzjdk",
+        "timestamp": "2025-08-25 15:01:52",
+        "type": "user",
+        "message_id": 61
+      },
+      {
+        "text": "bdbd",
+        "timestamp": "2025-08-25 15:02:55",
+        "type": "admin",
+        "message_id": null
+      },
+      {
+        "text": "jdkd",
+        "timestamp": "2025-08-25 15:03:14",
+        "type": "user",
+        "message_id": 67
+      },
+      {
+        "text": "sjbans",
+        "timestamp": "2025-08-25 15:14:16",
+        "type": "user",
+        "message_id": 79
+      },
+      {
+        "text": "\nassalomu alaykum",
+        "timestamp": "2025-08-25 15:16:39",
+        "type": "admin",
+        "message_id": null
+      }
+    ],
+    "stats": {
+      "total_messages": 6,
+      "last_message": "2025-08-25 15:14:16",
+      "last_activity": "2025-08-25 15:14:16",
+      "is_active_today": true
+    }
+  },
+  "7596812394": {
+    "user_info": {
+      "id": 7596812394,
+      "first_name": "Aliy",
+      "last_name": null,
+      "username": null,
+      "first_contact": "2025-08-26 19:24:34",
+      "is_blocked": false
+    },
+    "messages": [
+      {
+        "text": "Menga qanday yordam berolasiz",
+        "timestamp": "2025-08-26 19:24:34",
+        "type": "user",
+        "message_id": 95
+      },
+      {
+        "text": "bot yasab beramiz",
+        "timestamp": "2025-08-26 19:39:16",
+        "type": "admin",
+        "message_id": null
+      },
+      {
+        "text": "salom",
+        "timestamp": "2025-08-26 19:40:05",
+        "type": "admin",
+        "message_id": null
+      },
+      {
+        "text": "Salooom",
+        "timestamp": "2025-08-26 19:40:49",
+        "type": "user",
+        "message_id": 111
+      }
+    ],
+    "stats": {
+      "total_messages": 2,
+      "last_message": "2025-08-26 19:40:49",
+      "last_activity": "2025-08-26 19:40:49",
+      "is_active_today": true
+    }
+  }
+}
