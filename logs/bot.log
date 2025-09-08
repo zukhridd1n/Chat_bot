@@ -1116,3 +1116,9 @@ aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query
 2025-09-07 17:05:48,419 - handlers - INFO - 👤 /start - Zayniddin_Sharofiddinov (5041112582)
 2025-09-07 17:05:57,133 - handlers - INFO - 🎭 PHOTO - Zayniddin_Sharofiddinov (5041112582)
 2025-09-07 17:06:33,309 - handlers - INFO - ✅ Media javob yuborildi: 5041112582
+2025-09-08 15:13:58,240 - __main__ - INFO - 🤖 Bot ishga tushmoqda...
+2025-09-08 15:13:58,627 - __main__ - INFO - ✅ Bot ishga tushdi: @Xoodimun_bot
+2025-09-08 15:13:58,627 - __main__ - INFO - 👤 Admin ID: 1932693641
+2025-09-08 15:13:58,777 - database - INFO - 📂 2 foydalanuvchi ma'lumoti yuklandi
+2025-09-08 15:13:58,777 - __main__ - INFO - 📊 Bazada 2 foydalanuvchi
+2025-09-08 15:14:04,868 - aiogram.dispatcher - WARNING - Received SIGINT signal
