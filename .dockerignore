@@ -1,0 +1,10 @@
+.git
+__pycache__
+*.pyc
+.env
+.env*
+logs
+data
+backup
+media
+.idea

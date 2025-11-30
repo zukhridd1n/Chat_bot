@@ -9,7 +9,12 @@ import os
 from pathlib import Path
 from dotenv import load_dotenv
 
-load_dotenv()
+# Asosiy papka va .env joylashuvi
+BASE_DIR = Path(__file__).parent
+ENV_PATH = BASE_DIR / ".env"
+
+# .env dagi ma'lumotlarni to'g'ridan-to'g'ri yuklash
+load_dotenv(ENV_PATH)
 # =============================================================================
 # BOT SOZLAMALARI
 # =============================================================================
@@ -23,9 +28,6 @@ ADMIN_ID = int(os.getenv("ADMIN_ID", "123456789"))
 # =============================================================================
 # PAPKALAR VA FAYLLAR
 # =============================================================================
-
-# Asosiy papka
-BASE_DIR = Path(__file__).parent
 
 # Data papkasi
 DATA_DIR = BASE_DIR / "data"
@@ -218,7 +220,7 @@ Javob berishda doim mehribon va professional bo'ling!
 {media_info}
 
 💬 <b>Izoh:</b>
-{caption or 'Izoh yo\'q'}
+{caption or "Izoh yo'q"}
 
 📤 <b>Javob berish:</b>
 <code>/reply {user.id} </code>

@@ -1046,14 +1046,14 @@ async def user_info_callback_handler(callback: CallbackQuery):
 • ID: <code>{user_info.id}</code>
 • Birinchi murojaat: {user_info.first_contact}
 
-<b>Statistika:</b>
-• Jami xabarlar: {stats.total_messages}
-• So'nggi faollik: {stats.last_activity}
-• Status: {'🔴 Bloklangan' if user_info.is_blocked else '🟢 Faol'}
+    <b>Statistika:</b>
+    • Jami xabarlar: {stats.total_messages}
+    • So'nggi faollik: {stats.last_activity}
+    • Status: {'🔴 Bloklangan' if user_info.is_blocked else '🟢 Faol'}
 
-<b>So'nggi xabarlar:</b>
-{recent_text or 'Xabarlar yo\'q'}
-"""
+    <b>So'nggi xabarlar:</b>
+    {recent_text or "Xabarlar yo'q"}
+    """
 
         # Tugmalar
         keyboard = InlineKeyboardBuilder()
